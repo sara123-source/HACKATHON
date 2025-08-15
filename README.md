@@ -38,9 +38,6 @@ DripGuard is an **IoT-based IV fluid monitoring system** designed to reduce manu
 ![ALERT DISPLAY](images/ALERT DISPLAY.png)  
 *Close-up of HX711 load cell and OLED display showing real-time fluid data.*
 
-![WINNERS](images/WINNERS.jpg)  
-*Team photo from GIH Hackathon 2025 – 2nd Runner-Up.*
-
 ![CERTIFICATION](images/CERTIFICATION.jpg)  
 *Hackathon certificate and recognition.*
 
