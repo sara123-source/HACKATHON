@@ -1,6 +1,7 @@
-# DripGuard – Smart IV Monitoring System
+# DripGuard – Smart IV Monitoring System  
+*By Saransh Sharma & Achyut Pandey*  
 
-**Technologies:** ESP32, HX711 Load Cell, OLED Display, Buzzer, Blynk IoT
+**Technologies:** ESP32, HX711 Load Cell, OLED Display, Buzzer, Blynk IoT  
 
 ---
 
@@ -8,16 +9,16 @@
 ![ALERT DISPLAY](images/ALERT_DISPLAY.png)  
 *DripGuard IoT-based IV fluid monitoring system in action.*
 
-DripGuard is an **IoT-based IV fluid monitoring system** designed to reduce manual nurse checks by 70% and ensure patient safety by providing real-time alerts for abnormal fluid levels or flow rates. This system integrates sensors, microcontrollers, and mobile notifications to optimize IV management in hospitals and elderly care centers.
+DripGuard is an **IoT-based IV fluid monitoring system** co-developed by **Saharan Shaikh** and **Achyut Pandey** to reduce manual nurse checks by 70% and ensure patient safety through real-time alerts for abnormal fluid levels or flow rates. This system integrates sensors, microcontrollers, and mobile notifications to optimize IV management in hospitals and elderly care centers.
 
 ---
 
 ## Key Features
-- **Real-time monitoring:** Measures IV fluid levels using HX711 load cell and displays data on OLED.
-- **Automated alerts:** Sends mobile notifications via **Blynk IoT** and triggers buzzer/LED indicators when fluid levels are low or flow abnormal.
-- **Cost-effective & scalable:** Designed at under ₹400 per unit for deployment in 25+ rural and elderly care centers.
-- **Hackathon Recognition:** Won **2nd Runner-Up at GIH Hackathon 2025**.
-- **Research Contribution:** Findings published in a peer-reviewed research paper detailing IoT-based patient monitoring solutions.
+- **Real-time monitoring:** Measures IV fluid levels using HX711 load cell and displays data on OLED.  
+- **Automated alerts:** Sends mobile notifications via **Blynk IoT** and triggers buzzer/LED indicators when fluid levels are low or flow abnormal.  
+- **Cost-effective & scalable:** Designed at under ₹400 per unit for deployment in 25+ rural and elderly care centers.  
+- **Hackathon Recognition:** Won **2nd Runner-Up at GIH Hackathon 2025**.  
+- **Research Contribution:** Findings published in a peer-reviewed research paper detailing IoT-based patient monitoring solutions.  
 
 ---
 
@@ -36,13 +37,13 @@ DripGuard is an **IoT-based IV fluid monitoring system** designed to reduce manu
 *Complete DripGuard hardware setup on the IV stand.*  
 
 ![ALERT DISPLAY](images/ALERT_DISPLAY.png)  
-*Close-up of HX711 load cell and OLED display showing real-time fluid data.*
+*Close-up of HX711 load cell and OLED display showing real-time fluid data.*  
 
 ![CERTIFICATION](images/CERTIFICATION.jpg)  
-*Hackathon certificate and recognition.*
+*Hackathon certificate and recognition for Saharan Shaikh & Achyut Pandey.*  
 
 ![WINNERS](images/WINNERS.jpg)  
-*Team photo from the GIH Hackathon 2025 award ceremony.*
+*Team photo of Saharan Shaikh & Achyut Pandey from the GIH Hackathon 2025 award ceremony.*
 
 ---
 
@@ -52,5 +53,3 @@ DripGuard is an **IoT-based IV fluid monitoring system** designed to reduce manu
 3. Open `src/DripGuard.ino` and configure your **Blynk auth token**.  
 4. Upload the code to ESP32.  
 5. Monitor real-time IV fluid data on OLED and receive mobile alerts via Blynk.  
-
----
